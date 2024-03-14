@@ -38,23 +38,13 @@ Here are the professional languages and tools I'm proficient with:
        <br>Node
     </td>  
     <td align="center" width="96">
-       <img src="ICON_URL" alt="MongoDB" width="65" height="65" />
+       <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" width="65" height="65" />
        <br>MongoDB
     </td>
     <td align="center"  width="96">
        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
        <br>PostgreSQL
-    </td>         
-    <td align="center" width="96">
-       <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/dsa-data-structures-and-algorithms_96175.png" alt="DSA" width="65" height="65" />
-       <br>Data Structures & Algorithms
-    </td> 
-    <td align="center" width="96">
-       <img src="https://tailwindcss.com/_next/static/media/tailwindcss-icon.43f9e4e2cfdf030ac112e642c6b7d1f3.png" alt="Tailwind CSS" width="65" height="65" />
-       <br>Tailwind CSS
-    </td>
-  </tr>
-   <tr>   
+    </td>       
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
        <br>postman
@@ -63,22 +53,20 @@ Here are the professional languages and tools I'm proficient with:
        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
        <br>NGINX
     </td>
+      </tr>
+   <tr>   
     <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
        <br>AWS
     </td>
     <td align="center" width="96">
-       <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="65" height="65" />
+       <img src="https://img.icons8.com/color/96/000000/figma.png" alt="Figma" width="65" height="65" />
        <br>Figma
     </td>
     <td align="center" width="96">
-       <img src="https://www.mementotech.in/public/favicon.png" alt="EJS" width="65" height="65" />
+       <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="EJS" width="65" height="65" />
        <br>Embedded JavaScript (EJS)
-    </td> 
-    <td align="center" width="96">
-       <img src="ICON_URL" alt="Handlebars" width="65" height="65" />
-       <br>Handlebars
-      </td>
+    </td>   
     <td align="center" width="96">
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="65" height="65" />
        <br>Bootstrap

@@ -3,16 +3,16 @@
 
   - 💬 Ask me about ** React, JavaScript, Node, Express, TypeScript, MongoDb, Sql, DSA, C and Java **
 
-    - 📫 How to reach me ** anu.mj0608@gmail.com**
+  - 📫 How to reach me ** anu.mj0608@gmail.com**
 
-      - ⚡ Fun fact: ** I can't resist the allure of a new side project, often starting one before finishing the current. Exploring new ideas is my cosmic adventure! 🚀🌌**
+  - ⚡ Fun fact: ** I can't resist the allure of a new side project, often starting one before finishing the current. Exploring new ideas is my cosmic adventure! 🚀🌌**
 
-        - 🌱 I’m currently learning new skills **
+  - 🌱 I’m currently learning new skills **
 
 ## Connect with me
 
 - 💼 LinkedIn: [Profile](https://www.linkedin.com/in/anusree-m-j-003756286/)
-  - 🌐 Website: 
+- 🌐 Website: 
 
 ## Languages and Tools
 

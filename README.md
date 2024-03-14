@@ -45,6 +45,8 @@ Here are the professional languages and tools I'm proficient with:
        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
        <br>PostgreSQL
     </td>       
+      </tr>
+   <tr>   
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
        <br>postman
@@ -53,8 +55,6 @@ Here are the professional languages and tools I'm proficient with:
        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
        <br>NGINX
     </td>
-      </tr>
-   <tr>   
     <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
        <br>AWS
@@ -70,13 +70,13 @@ Here are the professional languages and tools I'm proficient with:
     <td align="center" width="96">
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="65" height="65" />
        <br>Bootstrap
-    </td>   
+    </td> 
+   </tr>
+     <tr>
     <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
        <br>JavaScript(ES6+)
     </td> 
-   </tr>
-   <tr>   
     <td align="center"  width="96">
        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="githubactions" />
        <br>Github actions
@@ -84,8 +84,8 @@ Here are the professional languages and tools I'm proficient with:
     <td align="center" width="96"> 
        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
        <br>Git
-    </td> 
-    <td align="center" width="96">
+    </td>     
+      <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
        <br>Github
     </td>
@@ -97,6 +97,8 @@ Here are the professional languages and tools I'm proficient with:
        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
        <br>HTML5
     </td>
+     </tr>
+       <tr>
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
        <br>VsCode
@@ -112,14 +114,13 @@ Here are the professional languages and tools I'm proficient with:
     <td align="center" width="96">
        <img src="https://img.icons8.com/color/96/000000/java-eclipse.png" alt="Eclipse" width="65" height="65" />
        <br>Eclipse
-    </td>
+    </td>         
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
        <br>ubuntu
     </td>     
-   </tr>
- 
- </table>
+       </tr>
+  </table>
  <br><br>
 </div>
 

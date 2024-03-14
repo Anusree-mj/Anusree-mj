@@ -126,8 +126,8 @@ Here are the professional languages and tools I'm proficient with:
 
 ## Some Personal projects I've built from ground-up.
 <h3>TrioCart, an E-commerce website for online dress shopping categorized for Ladies,Men and Kids</h3>
+<img src="https://raw.githubusercontent.com/Anusree-mj/E-commerce-TrioCart/public/images/your-gif-file.gif" alt="Your GIF" />
 <br/><br/><br/>
-{/* <img src="https://github.com/Anand-Krishnan-M-J/Wizards-Chess/assets/87609792/dffe8ae9-3acc-467e-b714-e28198a077c0" alt="Chess" /> */}
 <br/><br/><br/>
 
 Looking forward to connecting with fellow professionals in the tech world!

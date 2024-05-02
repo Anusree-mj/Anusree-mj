@@ -18,7 +18,7 @@
 
 Here are the professional languages and tools I'm proficient with:
 
-< div style = "display: flex; align-items: flex-start; align: center" >
+
  <table align="center">
   <tr>
     <td align="center" width="96">

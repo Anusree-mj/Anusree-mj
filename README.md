@@ -110,11 +110,7 @@ Here are the professional languages and tools I'm proficient with:
     <td align="center" width="96">
        <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C" width="65" height="65" />
        <br>C
-    </td>
-    <td align="center" width="96">
-       <img src="https://img.icons8.com/color/96/000000/java-eclipse.png" alt="Eclipse" width="65" height="65" />
-       <br>Eclipse
-    </td>         
+    </td>          
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
        <br>ubuntu

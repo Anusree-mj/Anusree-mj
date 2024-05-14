@@ -20,14 +20,10 @@ Here are the professional languages and tools I'm proficient with:
 
 
  <table align="center">
-  <tr>
+  <tr>  
     <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="icon" width="65" height="65" />
     <br>Next.js
-</td>
-    <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-    <br>TypeScript
 </td>
     <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -78,12 +74,8 @@ Here are the professional languages and tools I'm proficient with:
     <td align="center" width="96">
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="65" height="65" />
        <br>Bootstrap
-    </td> 
-     <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/materialui-icon.svg" alt="icon" width="65" height="65" />
-    <br>Material UI
-</td>
-   </tr>
+    </td>
+        </tr>
      <tr>
     <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />

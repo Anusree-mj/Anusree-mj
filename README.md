@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anusree M J</h1>
+<h1 align="center">Hi 👋, I'm Anusree MJ</h1>
 <h3 align="center">Full Stack Developer || MERN</h3>
 
   - 💬 Ask me about ** React, JavaScript, Node, Express, TypeScript, MongoDb, Sql, DSA, C and Java **

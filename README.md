@@ -45,12 +45,20 @@ Here are the professional languages and tools I'm proficient with:
        <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" width="65" height="65" />
        <br>MongoDB
     </td>
+      </tr>
+   <tr>   
     <td align="center"  width="96">
        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
        <br>PostgreSQL
     </td>       
-      </tr>
-   <tr>   
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
+       <br>JavaScript(ES6+)
+    </td> 
+    <td align="center" width="96">
+       <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="EJS" width="65" height="65" />
+       <br>Embedded JavaScript (EJS)
+    </td>   
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
        <br>postman
@@ -63,24 +71,34 @@ Here are the professional languages and tools I'm proficient with:
        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
        <br>AWS
     </td>
+        </tr>
+     <tr>
+   <td align="center" width="96">
+    <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="icon" width="65" height="65" />
+    <br>Material UI
+</td>
     <td align="center" width="96">
        <img src="https://img.icons8.com/color/96/000000/figma.png" alt="Figma" width="65" height="65" />
        <br>Figma
     </td>
     <td align="center" width="96">
-       <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="EJS" width="65" height="65" />
-       <br>Embedded JavaScript (EJS)
-    </td>   
-    <td align="center" width="96">
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="65" height="65" />
        <br>Bootstrap
     </td>
-        </tr>
-     <tr>
     <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
-       <br>JavaScript(ES6+)
-    </td> 
+       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+       <br>CSS
+    </td>
+    <td align="center"  width="96">
+       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+       <br>HTML5
+    </td>
+       <td align="center" width="96">
+    <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="65" height="65" />
+    <br>Tailwind CSS
+</td>
+     </tr>
+       <tr>
     <td align="center"  width="96">
        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="githubactions" />
        <br>Github actions
@@ -94,16 +112,6 @@ Here are the professional languages and tools I'm proficient with:
        <br>Github
     </td>
     <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-       <br>CSS
-    </td>
-    <td align="center"  width="96">
-       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-       <br>HTML5
-    </td>
-     </tr>
-       <tr>
-    <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
        <br>VsCode
     </td> 
@@ -115,11 +123,13 @@ Here are the professional languages and tools I'm proficient with:
        <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C" width="65" height="65" />
        <br>C
     </td>          
+       </tr>
+   <tr>
     <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
        <br>ubuntu
-    </td>     
-       </tr>
+    </td>   
+          </tr>
   </table>
  <br><br>
 </div>
